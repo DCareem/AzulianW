@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzulianW&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzulianW&hide_progress=true)
 
 - 👋 Hi, I’m @Azulian
 - 👀 I’m interested in basically EVERYTHING!
